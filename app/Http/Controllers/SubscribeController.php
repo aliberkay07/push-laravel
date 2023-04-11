@@ -65,8 +65,8 @@ class SubscribeController extends Controller
 
 
         $payload = json_encode([
-            'title' => 'Push notification',
-            'body' => 'This is a push notification',
+            'title' => 'Dedeye Sahip Çıkalım',
+            'body' => 'Dede Bizim Dedemiz',
             'icon' => '/images/icon.png',
             'badge' => '/images/badge.png'
         ]);
